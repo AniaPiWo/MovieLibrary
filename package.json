@@ -2,14 +2,14 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://kamilszafranski.github.io/piatkowyDeploy",
+  "homepage": "https://AniaPiWo.github.io/piatkowyDeploy",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url ./"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kamilszafranski/piatkowyDeploy.git"
+    "url": "git+https://github.com/AniaPiWo/piatkowyDeploy.git"
   },
   "keywords": [],
   "author": "Kamil Szafranski",
