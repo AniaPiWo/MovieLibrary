@@ -1,6 +1,7 @@
 # GoIT Group Project
 
 **Ania P.W.**
+
 **Scrum Master / Developer**
 
 - Conducting daily SpeakUp
